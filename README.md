@@ -328,21 +328,21 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-### In Android Studio
-![image](https://github.com/sabithapaulraj/animation/assets/118343379/b63b38c1-65e5-46de-939c-17b5e48f3ae5)
 
-### In Mobile Android
-
-![WhatsApp Image 2024-04-28 at 20 58 55_0b83b077](https://github.com/sabithapaulraj/animation/assets/118343379/63243fe2-f535-474d-a38f-af006d48e31a)
-
-![WhatsApp Image 2024-04-28 at 20 58 55_b7aad18a](https://github.com/sabithapaulraj/animation/assets/118343379/3910a71d-c358-4da9-870a-1202c208cfdc)
-
-![WhatsApp Image 2024-04-28 at 20 58 55_6723613e](https://github.com/sabithapaulraj/animation/assets/118343379/8aac4b10-2e88-4ac5-a784-0a5c48a5a4b0)
-
-![WhatsApp Image 2024-04-28 at 20 58 56_1d38efb7](https://github.com/sabithapaulraj/animation/assets/118343379/a13cb7fa-2af0-44ee-9183-85238fcb4047)
-
-![WhatsApp Image 2024-04-28 at 20 58 56_447aec5e](https://github.com/sabithapaulraj/animation/assets/118343379/6c06ebbe-1b75-4cb9-93b9-d9b8b7a60d03)
-
+### MainActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05fda8e7-83c1-4ced-845f-1d318e8f8da3" /><br>
+### Blink
+<img width="396" height="805" alt="image" src="https://github.com/user-attachments/assets/7ca5befc-2f2c-4c2e-becb-4c056ba028a1" /><br>
+### Slide
+<img width="387" height="805" alt="image" src="https://github.com/user-attachments/assets/560b7093-07fb-4478-82f3-92bf5b99c341" /><br>
+### Fade
+<img width="380" height="809" alt="image" src="https://github.com/user-attachments/assets/50346db8-a1ce-46d6-92b5-9ee9977d9d4b" /><br>
+### Zoom
+<img width="396" height="808" alt="image" src="https://github.com/user-attachments/assets/c13ee688-716f-4ee2-9968-5aa3fe2f63e1" /><br>
+### Move
+<img width="379" height="799" alt="image" src="https://github.com/user-attachments/assets/5843f49d-44da-416e-ab4f-0c90211a1f22" /><br>
+### Rotate
+<img width="382" height="796" alt="image" src="https://github.com/user-attachments/assets/f754cae1-b5a0-46f5-907c-4f1cd9110c11" /><br>
 
 
 

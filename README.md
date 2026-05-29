@@ -329,8 +329,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-### MainActivity.java
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05fda8e7-83c1-4ced-845f-1d318e8f8da3" /><br>
 ### Blink
 <img width="396" height="805" alt="image" src="https://github.com/user-attachments/assets/7ca5befc-2f2c-4c2e-becb-4c056ba028a1" /><br>
 ### Slide
